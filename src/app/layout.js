@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Babylon National School",
-  description: "Official website of Babylon National School",
+  title: "Jay Bhawani Madhyamik Bidhayalaya",
+  description: "Official website of Jay Bhawani Madhyamik Bidhayalaya",
 };
 
 export default function RootLayout({ children }) {
@@ -23,9 +23,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <LocaleProvider>
-          {children}
-        </LocaleProvider>
+        <LocaleProvider>{children}</LocaleProvider>
       </body>
     </html>
   );
