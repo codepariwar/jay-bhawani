@@ -1,0 +1,452 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "name": "Toyanath Adhikari",
+      "appointmentType": "Permanent",
+      "appointmentDate": "2061-11-27",
+      "levelAndGrade": "Primary/Second",
+      "subject": "Education",
+      "qualification": "M.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar1.png"
+    },
+    {
+      "id": 2,
+      "name": "Kiran Chapagain",
+      "appointmentType": "Permanent",
+      "appointmentDate": "2079-12-22",
+      "levelAndGrade": "Primary/Third",
+      "subject": "Mathematics",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar2.png"
+    },
+    {
+      "id": 3,
+      "name": "Tilochan Bhattarai",
+      "appointmentType": "Permanent",
+      "appointmentDate": "2050-05-27",
+      "levelAndGrade": "Primary/Second",
+      "subject": "Economics",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "10 months",
+        "subject": "Primary"
+      },
+      "image": "/staffs/avatar3.png"
+    },
+    {
+      "id": 4,
+      "name": "Lakhman Tamang",
+      "appointmentType": "Permanent",
+      "appointmentDate": "2079-12-22",
+      "levelAndGrade": "Primary/Third",
+      "subject": "Social Studies",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar4.png"
+    },
+    {
+      "id": 5,
+      "name": "Shankar Chapagain",
+      "appointmentType": "Permanent",
+      "appointmentDate": "2079-12-22",
+      "levelAndGrade": "Primary/Second",
+      "subject": "Social Studies",
+      "qualification": "M.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar5.png"
+    },
+    {
+      "id": 6,
+      "name": "Maya Subba",
+      "appointmentType": "Relief",
+      "appointmentDate": "2066-03-14",
+      "levelAndGrade": "Lower Secondary/Third",
+      "subject": "English",
+      "qualification": "I.A.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar6.png"
+    },
+    {
+      "id": 7,
+      "name": "Hom Nath Kafle",
+      "appointmentType": "Grant",
+      "appointmentDate": "2078-05-18",
+      "levelAndGrade": "Secondary",
+      "subject": "English",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar7.png"
+    },
+    {
+      "id": 8,
+      "name": "Durga Sitaula",
+      "appointmentType": "Private",
+      "appointmentDate": "2081-02-16",
+      "levelAndGrade": "Secondary",
+      "subject": "Science",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar8.png"
+    },
+    {
+      "id": 9,
+      "name": "Rupa Khadka",
+      "appointmentType": "Private",
+      "appointmentDate": "2081-02-16",
+      "levelAndGrade": "Secondary",
+      "subject": "Nepali",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar9.png"
+    },
+    {
+      "id": 10,
+      "name": "Pema Tamang",
+      "appointmentType": "Private",
+      "appointmentDate": "2077-07-22",
+      "levelAndGrade": "Basic",
+      "subject": "Science",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar10.png"
+    },
+    {
+      "id": 11,
+      "name": "Goma Rijal",
+      "appointmentType": "Assistant Teacher",
+      "appointmentDate": "2080-04-01",
+      "levelAndGrade": "Assistant Teacher",
+      "subject": "",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar11.png"
+    },
+    {
+      "id": 12,
+      "name": "Manita Ektinhang",
+      "appointmentType": "Private",
+      "appointmentDate": "2078-08-09",
+      "levelAndGrade": "Basic",
+      "subject": "Nepali",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar12.png"
+    },
+    {
+      "id": 13,
+      "name": "Anju Sherpa",
+      "appointmentType": "Private",
+      "appointmentDate": "2081-01-24",
+      "levelAndGrade": "Basic",
+      "subject": "English",
+      "qualification": "S.L.C.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar13.png"
+    },
+    {
+      "id": 14,
+      "name": "Tej Prasad Rijal",
+      "appointmentType": "Office Assistant",
+      "appointmentDate": "2072-02-01",
+      "levelAndGrade": "",
+      "subject": "All",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar14.png"
+    },
+    {
+      "id": 15,
+      "name": "Sapani Rai",
+      "appointmentType": "Private",
+      "appointmentDate": "2078-06-11",
+      "levelAndGrade": "",
+      "subject": "",
+      "qualification": "",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar15.png"
+    }
+  ],
+  "np": [
+    {
+      "id": 1,
+      "name": "तोयानाथ अधिकारी",
+      "appointmentType": "स्थायी",
+      "appointmentDate": "२०६१।११।२७",
+      "levelAndGrade": "प्रा./द्वितिय",
+      "subject": "शिक्षा",
+      "qualification": "M.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar1.png"
+    },
+    {
+      "id": 2,
+      "name": "किरण चापागाईँ",
+      "appointmentType": "स्थायी",
+      "appointmentDate": "२०७९।१२।२२",
+      "levelAndGrade": "प्रा./तृतिय",
+      "subject": "गणित",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar2.png"
+    },
+    {
+      "id": 3,
+      "name": "तिलोचन भट्टराई",
+      "appointmentType": "स्थायी",
+      "appointmentDate": "२०५०।०५।२७",
+      "levelAndGrade": "प्रा./द्वितिय",
+      "subject": "अर्थशास्त्र",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "१०म.",
+        "subject": "प्राथमिक"
+      },
+      "image": "/staffs/avatar3.png"
+    },
+    {
+      "id": 4,
+      "name": "लाखमान तामाङ्ग",
+      "appointmentType": "स्थायी",
+      "appointmentDate": "२०७९।१२।२२",
+      "levelAndGrade": "प्रा./तृतिय",
+      "subject": "सामाजिक",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar4.png"
+    },
+    {
+      "id": 5,
+      "name": "शंकर चापागाईँ",
+      "appointmentType": "स्थायी",
+      "appointmentDate": "२०७९।१२।२२",
+      "levelAndGrade": "प्रा./द्वितिय",
+      "subject": "सामाजिक",
+      "qualification": "M.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar5.png"
+    },
+    {
+      "id": 6,
+      "name": "माया सुब्बा",
+      "appointmentType": "राहत",
+      "appointmentDate": "२०६६।०३।१४",
+      "levelAndGrade": "नि.मा./तृ.",
+      "subject": "अंग्रेजी",
+      "qualification": "I.A.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar6.png"
+    },
+    {
+      "id": 7,
+      "name": "होम नाथ काफ्ले",
+      "appointmentType": "अनुदान",
+      "appointmentDate": "२०७८।०५।१८",
+      "levelAndGrade": "मा. वि.",
+      "subject": "अंग्रेजी",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar7.png"
+    },
+    {
+      "id": 8,
+      "name": "दुर्गा सिटौला",
+      "appointmentType": "नीजी",
+      "appointmentDate": "२०८१।०२।१६",
+      "levelAndGrade": "मा. वि.",
+      "subject": "विज्ञान",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar8.png"
+    },
+    {
+      "id": 9,
+      "name": "रुपा खड्का",
+      "appointmentType": "नीजी",
+      "appointmentDate": "२०८१।०२।१६",
+      "levelAndGrade": "मा. वि.",
+      "subject": "नेपाली",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar9.png"
+    },
+    {
+      "id": 10,
+      "name": "पेमा तामाङ्ग",
+      "appointmentType": "नीजी",
+      "appointmentDate": "२०७७।०७।२२",
+      "levelAndGrade": "आधारभुत",
+      "subject": "विज्ञान",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar10.png"
+    },
+    {
+      "id": 11,
+      "name": "गोमा रिजाल",
+      "appointmentType": "स.शि.",
+      "appointmentDate": "२०८०।०४।०१",
+      "levelAndGrade": "स.शि.",
+      "subject": "",
+      "qualification": "B.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar11.png"
+    },
+    {
+      "id": 12,
+      "name": "मनिता एक्तिनहाङ",
+      "appointmentType": "निजी",
+      "appointmentDate": "२०७८।०८।०९",
+      "levelAndGrade": "आधारभुत",
+      "subject": "नेपाली",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar12.png"
+    },
+    {
+      "id": 13,
+      "name": "अन्जु शेर्पा",
+      "appointmentType": "निजी",
+      "appointmentDate": "२०८१।०१।२४",
+      "levelAndGrade": "आधारभुत",
+      "subject": "अंग्रेजी",
+      "qualification": "S.L.C.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar13.png"
+    },
+    {
+      "id": 14,
+      "name": "तेज प्रसाद रिजाल",
+      "appointmentType": "का.स.",
+      "appointmentDate": "२०७२।०२।०१",
+      "levelAndGrade": "",
+      "subject": "सवै",
+      "qualification": "I.Ed.",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar14.png"
+    },
+    {
+      "id": 15,
+      "name": "सपनी राई",
+      "appointmentType": "निजी",
+      "appointmentDate": "२०७८।०६।११",
+      "levelAndGrade": "",
+      "subject": "",
+      "qualification": "",
+      "training": {
+        "duration": "",
+        "subject": ""
+      },
+      "image": "/staffs/avatar15.png"
+    }
+  ],
+  "labels": {
+    "en": {
+      "serialNumber": "S.N.",
+      "name": "Teacher's Name",
+      "appointmentType": "Appointment Type",
+      "appointmentDate": "Appointment Date",
+      "levelAndGrade": "Level & Grade",
+      "subject": "Teaching Subject",
+      "qualification": "Educational Qualification",
+      "training": "Completed Training",
+      "trainingDuration": "Duration",
+      "trainingSubject": "Subject"
+    },
+    "np": {
+      "serialNumber": "क्र.सं.",
+      "name": "शिक्षकको नाम थर",
+      "appointmentType": "नियुक्तिको प्रकार",
+      "appointmentDate": "नियुक्ति मिति",
+      "levelAndGrade": "तह र श्रेणी",
+      "subject": "अध्यापन गर्ने विषय",
+      "qualification": "शैक्षिक योग्यता",
+      "training": "सम्पन्न तालिम",
+      "trainingDuration": "अवधि",
+      "trainingSubject": "विषय"
+    }
+  }
+}

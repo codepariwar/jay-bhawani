@@ -1,0 +1,414 @@
+{
+  "en": {
+    "formationDate": "2079-11-28",
+    "committee": [
+      {
+        "id": 1,
+        "name": "Til Bikram Idhingo",
+        "position": "Chairperson",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 2,
+        "name": "Ishwari Prasad Rijal",
+        "position": "Member",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 3,
+        "name": "Dilliram Rijal",
+        "position": "Member",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 4,
+        "name": "Devimaya Rijal",
+        "position": "Member",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 5,
+        "name": "Devimaya Rai",
+        "position": "Member",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 6,
+        "name": "Barsha Rai",
+        "position": "Member",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 7,
+        "name": "Dhan Bahadur Limbu",
+        "position": "Ward Chairperson",
+        "address": "Hilihang 7",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 8,
+        "name": "Tilochan Bhattarai",
+        "position": "Teacher Member",
+        "address": "Phidim 4",
+        "selectionProcess": "Unopposed"
+      },
+      {
+        "id": 9,
+        "name": "Toyanath Adhikari",
+        "position": "Member Secretary",
+        "address": "Phidim 2",
+        "selectionProcess": ""
+      }
+    ],
+    "landDonors": [
+      { "id": 1, "name": "Chakra Bahadur Rai" },
+      { "id": 2, "name": "Premlal Rijal" },
+      { "id": 3, "name": "Jivanath Rijal" },
+      { "id": 4, "name": "Ram Prasad Rijal" },
+      { "id": 5, "name": "Padam Lal Rijal" },
+      { "id": 6, "name": "Pushpalal Rijal" },
+      { "id": 7, "name": "Mankumari Ektinhang" },
+      { "id": 8, "name": "Gomadevi Rijal" },
+      { "id": 9, "name": "Dilliram Rijal" },
+      { "id": 10, "name": "Hemkumar Rijal" },
+      { "id": 11, "name": "Kuvernath Rijal" },
+      { "id": 12, "name": "Chhabilal Rijal" },
+      { "id": 13, "name": "Premlal Rijal" },
+      { "id": 14, "name": "Ghanendra Rijal" },
+      { "id": 15, "name": "Matrika Rijal" },
+      { "id": 16, "name": "Laxmi Rijal" },
+      { "id": 17, "name": "Yamnath Rijal" },
+      { "id": 18, "name": "Nirmala Rijal" },
+      { "id": 19, "name": "Pushpa Rijal" },
+      { "id": 20, "name": "Anil Rijal" },
+      { "id": 21, "name": "Arjun Rijal" },
+      { "id": 22, "name": "Bishwas Rai" },
+      { "id": 23, "name": "Rajendra Tamang" },
+      { "id": 24, "name": "Tankanath Timsina" }
+    ],
+    "principals": [
+      {
+        "id": 1,
+        "name": "Ranglal Rijal",
+        "from": "Establishment",
+        "to": "2044-09-15"
+      },
+      {
+        "id": 2,
+        "name": "Padam Prasad Timsina",
+        "from": "2044-09-15",
+        "to": "2059-09-07"
+      },
+      {
+        "id": 3,
+        "name": "Kumar Yonjan Tamang",
+        "from": "2059-09-07",
+        "to": "2072-04-01"
+      },
+      {
+        "id": 4,
+        "name": "Tilochan Bhattarai",
+        "from": "2072-04-15",
+        "to": "2080-01-06"
+      },
+      {
+        "id": 5,
+        "name": "Toyanath Adhikari",
+        "from": "2080-01-06",
+        "to": "Present"
+      }
+    ],
+    "chairpersons": [
+      {
+        "id": 1,
+        "name": "Hom Prasad Yava",
+        "from": "2044",
+        "to": "2046"
+      },
+      {
+        "id": 2,
+        "name": "Tankanath Timsina",
+        "from": "2046",
+        "to": "2049"
+      },
+      {
+        "id": 3,
+        "name": "Khemnath Rijal",
+        "from": "2049",
+        "to": "2052"
+      },
+      {
+        "id": 4,
+        "name": "Dilli Prasad Subedi",
+        "from": "2052",
+        "to": "2055"
+      },
+      {
+        "id": 5,
+        "name": "Jivanath Rijal",
+        "from": "2055",
+        "to": "2058"
+      },
+      {
+        "id": 6,
+        "name": "Ambika Rijal",
+        "from": "2058",
+        "to": "2061"
+      },
+      {
+        "id": 7,
+        "name": "Tankanath Timsina",
+        "from": "2061",
+        "to": "2064"
+      },
+      {
+        "id": 8,
+        "name": "Shahar Bahadur Rai",
+        "from": "2064",
+        "to": "2067-05-23"
+      },
+      {
+        "id": 9,
+        "name": "Bimal Prasad Rijal",
+        "from": "2067-05-23",
+        "to": "2070-09-16"
+      },
+      {
+        "id": 10,
+        "name": "Dilli Prasad Subedi",
+        "from": "2070-09-16",
+        "to": "2073-06-06"
+      },
+      {
+        "id": 11,
+        "name": "Chhabilal Rijal",
+        "from": "2073-06-06",
+        "to": "2076-11-22"
+      },
+      {
+        "id": 12,
+        "name": "Dilli Prasad Subedi",
+        "from": "2076-11-22",
+        "to": "2079-11-28"
+      },
+      {
+        "id": 13,
+        "name": "Til Bikram Idhingo",
+        "from": "2079-11-28",
+        "to": "Present"
+      }
+    ]
+  },
+  "np": {
+    "formationDate": "२०७९।११।२८",
+    "committee": [
+      {
+        "id": 1,
+        "name": "तिल विक्रम ईधिङ्गो",
+        "position": "अध्यक्ष",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 2,
+        "name": "ईश्वरी प्रसाद रिजाल",
+        "position": "सदश्य",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 3,
+        "name": "डिल्लीराम रिजाल",
+        "position": "सदश्य",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 4,
+        "name": "देवीमाया रिजाल",
+        "position": "सदश्य",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 5,
+        "name": "देवीमाया राई",
+        "position": "सदश्य",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 6,
+        "name": "बर्षा राई",
+        "position": "सदश्य",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 7,
+        "name": "धन बहादुर लिम्बु",
+        "position": "वडा अध्यक्ष",
+        "address": "हिलिहाङ ७",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 8,
+        "name": "तिलोचन भट्टराई",
+        "position": "शिक्षक सदश्य",
+        "address": "फिदिम ४",
+        "selectionProcess": "निर्विरोध"
+      },
+      {
+        "id": 9,
+        "name": "तोयानाथ अधिकारी",
+        "position": "सदश्य सचिव",
+        "address": "फिदिम २",
+        "selectionProcess": ""
+      }
+    ],
+    "landDonors": [
+      { "id": 1, "name": "चक्र वहादुर राई" },
+      { "id": 2, "name": "प्रेमलाल रिजाल" },
+      { "id": 3, "name": "जीवनाथ रिजाल" },
+      { "id": 4, "name": "राम प्रसाद रिजाल" },
+      { "id": 5, "name": "पदम लाल रिजाल" },
+      { "id": 6, "name": "पुष्पलाल रिजाल" },
+      { "id": 7, "name": "मनकुमारी एक्तिनहाङ" },
+      { "id": 8, "name": "गोमादेवी रिजाल" },
+      { "id": 9, "name": "डिल्लीराम रिजाल" },
+      { "id": 10, "name": "हेमकुमार रिजाल" },
+      { "id": 11, "name": "कुवेरनाथ रिजाल" },
+      { "id": 12, "name": "छविलाल रिजाल" },
+      { "id": 13, "name": "प्रेमलाल रिजाल" },
+      { "id": 14, "name": "घनेन्द्र रिजाल" },
+      { "id": 15, "name": "मात्रिका रिजाल" },
+      { "id": 16, "name": "लक्ष्मी रिजाल" },
+      { "id": 17, "name": "यामनाथ रिजाल" },
+      { "id": 18, "name": "निर्मला रिजाल" },
+      { "id": 19, "name": "पुष्पा रिजाल" },
+      { "id": 20, "name": "अनिल रिजाल" },
+      { "id": 21, "name": "अर्जुन रिजाल" },
+      { "id": 22, "name": "विश्वास राई" },
+      { "id": 23, "name": "राजेन्द्र तामाङ" },
+      { "id": 24, "name": "टंकनाथ तिम्सिना" }
+    ],
+    "principals": [
+      {
+        "id": 1,
+        "name": "रंगलाल रिजाल",
+        "from": "स्थापना",
+        "to": "२०४४-९-१५"
+      },
+      {
+        "id": 2,
+        "name": "पदम प्रसाद तिम्सिना",
+        "from": "२०४४-९-१५",
+        "to": "२०५९-९-७"
+      },
+      {
+        "id": 3,
+        "name": "कुमार योञ्जन तामाङ",
+        "from": "२०५९-९-७",
+        "to": "२०७२-४-१"
+      },
+      {
+        "id": 4,
+        "name": "तिलोचन भट्टराई",
+        "from": "२०७२-४-१५",
+        "to": "२०८०-१-६"
+      },
+      {
+        "id": 5,
+        "name": "तोयानाथ अधिकारी",
+        "from": "२०८०-१-६",
+        "to": "हालसम्म"
+      }
+    ],
+    "chairpersons": [
+      {
+        "id": 1,
+        "name": "होम प्रसाद यवा",
+        "from": "२०४४",
+        "to": "२०४६"
+      },
+      {
+        "id": 2,
+        "name": "टंकनाथ तिम्सिना",
+        "from": "२०४६",
+        "to": "२०४९"
+      },
+      {
+        "id": 3,
+        "name": "खेमनाथ रिजाल",
+        "from": "२०४९",
+        "to": "२०५२"
+      },
+      {
+        "id": 4,
+        "name": "डिल्ली प्रसाद सुवेदी",
+        "from": "२०५२",
+        "to": "२०५५"
+      },
+      {
+        "id": 5,
+        "name": "जीवनाथ रिजाल",
+        "from": "२०५५",
+        "to": "२०५८"
+      },
+      {
+        "id": 6,
+        "name": "अम्बिका रिजाल",
+        "from": "२०५८",
+        "to": "२०६१"
+      },
+      {
+        "id": 7,
+        "name": "टंकनाथ तिम्सिना",
+        "from": "२०६१",
+        "to": "२०६४"
+      },
+      {
+        "id": 8,
+        "name": "शहर बहादुर राई",
+        "from": "२०६४",
+        "to": "२०६७/५/२३"
+      },
+      {
+        "id": 9,
+        "name": "विमल प्रसाद रिजाल",
+        "from": "२०६७/५/२३",
+        "to": "२०७०/९/१६"
+      },
+      {
+        "id": 10,
+        "name": "डिल्ली प्रसाद सुवेदी",
+        "from": "२०७०/९/१६",
+        "to": "२०७३/६/६"
+      },
+      {
+        "id": 11,
+        "name": "छविलाल रिजाल",
+        "from": "२०७३/६/६",
+        "to": "२०७६/११/२२"
+      },
+      {
+        "id": 12,
+        "name": "डिल्ली प्रसाद सुवेदी",
+        "from": "२०७६/११/२२",
+        "to": "२०७९/११/२८"
+      },
+      {
+        "id": 13,
+        "name": "तिल बिक्रम इधिङ्गो",
+        "from": "२०७९/११/२८",
+        "to": "हालसम्म"
+      }
+    ]
+  }
+}
